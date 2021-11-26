@@ -144,9 +144,6 @@ PLATFORM_VERSION := 16.1.0
 #BOARD_BUILD_SYSTEM_ROOT_IMAGE := true //set is system.prop
 #BOARD_ROOT_EXTRA_FOLDERS := bluetooth dsp firmware persist
 #BOARD_SUPPRESS_SECURE_ERASE := true
-# OTA
-
-TARGET_OTA_ASSERT_DEVICE := olivelite
 
 # Treble
 
